@@ -219,3 +219,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# csv files
+*.csv
+g-gpt-user_accessKeys.csv
+
+
+# .pem files
+*.pem
